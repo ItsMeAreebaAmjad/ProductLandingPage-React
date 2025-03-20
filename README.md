@@ -19,4 +19,10 @@ This is a **Product Landing Page** built using **React.js** and **Tailwind CSS**
 - **React Icons** 🏗️
 
 ## Screenshots
+![Screenshot1](https://github.com/ItsMeAreebaAmjad/ProductLandingPage-React/blob/main/image1.png)
+![Screenshot2](https://github.com/ItsMeAreebaAmjad/ProductLandingPage-React/blob/main/image2.png)
+![Screenshot3](https://github.com/ItsMeAreebaAmjad/ProductLandingPage-React/blob/main/image3.png)
+![Screenshot4](https://github.com/ItsMeAreebaAmjad/ProductLandingPage-React/blob/main/image4.png)
+![Screenshot5](https://github.com/ItsMeAreebaAmjad/ProductLandingPage-React/blob/main/image5.png)
+![Screenshot6](https://github.com/ItsMeAreebaAmjad/ProductLandingPage-React/blob/main/image6.png)
 
